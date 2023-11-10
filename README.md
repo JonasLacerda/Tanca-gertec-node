@@ -15,4 +15,4 @@ No futuro incremento uma interface de usuario gráfica.
 A descrição dos produtos deve ter apenas 20 caracteres pois o tanca sao duas linhas de 20 colunas.
 Lembre-se de na hora que configurar o terminal apontar para o ip da maquina que o codigo vai ser instalado.
 
-
+Agradecer a Ana Lucia S. Melo que em 2008 criou o codigo do gertec em java e foi com esse codigo que eu reescrevi para rodar no nodejs.
